@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
+地址：[http://luoyuchen.github.io](http://luoyuchen.github.io)
 
 
 ### 安装说明
