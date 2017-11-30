@@ -1,7 +1,7 @@
 # Site settings
 title: 罗伟的技术博客
 email: lwalex@foxmail.com
-description: > #刘彦玮的技术博客
+description: > #罗伟的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
@@ -21,7 +21,7 @@ author:                                     #自定义常亮
 title: 刘彦玮的技术博客                             #自定义常量
 
 # avatar头像及Favicon
-avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
+avatar: http://oi6ixi7ze.bkt.clouddn.com/touxiang.jpeg
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
