@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 键盘那些事，hhkb开箱
-category: 生活
+category: 周边
 tags: 键盘
 keywords: keyboard,hhkb,电容键盘,机械键盘
 description:
