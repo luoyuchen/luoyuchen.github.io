@@ -16,7 +16,7 @@ title: Welcome
 ## 博客中的技术类型
 ---
 
-![](assets/images/jiajia.jpg)
+![](assets/images/jiajia.jpeg)
 
 
 
